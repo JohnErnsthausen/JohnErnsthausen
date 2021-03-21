@@ -13,4 +13,5 @@ You can get more business with Smarty Pixels! Let us build a website that solves
 - Interacting on [Twitter](https://twitter.com/johnernsthausen)
 - Sharing updates on [LinkedIn](https://twitter.com/johnernsthausen)
 - Check out my experience on [Personal Website](http://www.johnernsthausen.com)
+- Build with Smarty Pixels [Smarty Pixels](http://www.smartypixels.com)
 
